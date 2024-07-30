@@ -12,7 +12,7 @@ This repository contains a Spring Boot application for managing to-do lists.
 
 1. **Clone the Repository:** 
    ```bash
-   git clone https://github.com/your-username/to-do-management-system.git
+   git clone https://github.com/sneha31chawla/todoapp
    ```
 2. **Set up Dependencies:** 
    Ensure the necessary dependencies are included in the project's `pom.xml` file. These typically include:
